@@ -12,4 +12,5 @@ eval "../SysReq-cntrl"
 eval "../ICD-cntrl"
 eval "../ICD_SW-cntrl"
 eval "../ICD_HW-cntrl"
+eval "../SW-cntrl"
 
