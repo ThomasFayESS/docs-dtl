@@ -8,3 +8,8 @@ fi
 cd docs
 
 eval "../ConOps-cntrl"
+eval "../SysReq-cntrl"
+eval "../ICD-cntrl"
+eval "../ICD_SW-cntrl"
+eval "../ICD_HW-cntrl"
+
